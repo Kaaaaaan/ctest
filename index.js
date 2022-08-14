@@ -1,4 +1,4 @@
-var codes = ["0000-0001"];
+var codes = ["beta-uye-giris","1bd1-11ed"];
 var cook = localStorage.getItem('eotClientCode');
 if(cook == undefined){
     var codeInput = prompt('Lütfen size verilen kodu girin.', "")
